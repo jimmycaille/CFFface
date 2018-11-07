@@ -9,18 +9,18 @@ class SwissRailwaysWatchFaceView extends WatchUi.WatchFace {
 	// white id : 84d8f63131b445398459b6b0fc7440d4
 	//clock design constants
 	var c = 120;
-	var minCircle  = 112;
+	var minCircle  = 120; //112
 	var minCircle2 = 30;
 	var minDeg     = 2;
 	var minDeg2    = 12;
-	var hrCircle   = 74;
+	var hrCircle   = 76; //74
 	var hrCircle2  = 30;
 	var hrDeg      = 3;
 	var hrDeg2     = 12;
-	var secCircle  = 72;
+	var secCircle  = 78; //72
 	var secCircle2 = 38;
 	var secWidth   = 3;
-	var secRadius1 = 9;
+	var secRadius1 = 10;//9
 	var secRadius2 = 4;
 	//used to detect when going into sleep and hide seconds hand
 	var sleeping=false;
