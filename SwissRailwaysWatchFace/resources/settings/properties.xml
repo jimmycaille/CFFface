@@ -1,7 +1,5 @@
 <properties>
-
-    <property id="BackgroundColor" type="number">0x000000</property>
-    <property id="ForegroundColor" type="number">0xFF0000</property>
-    <property id="UseMilitaryFormat" type="boolean">false</property>
-
+	<property id="HandsColor" type="number">0xFFFFFF</property> <!-- 0xFFFFFF for 2 -->
+	<property id="SecondsHandColor" type="number">0xFF0000</property>
+    <property id="BackgroundColor" type="number">0x000000</property> <!-- 0x000000 for 2 -->
 </properties>

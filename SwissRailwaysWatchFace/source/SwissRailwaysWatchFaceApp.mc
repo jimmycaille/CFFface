@@ -1,7 +1,7 @@
 using Toybox.Application;
 using Toybox.WatchUi;
 
-class CFFfaceApp extends Application.AppBase {
+class SwissRailwaysWatchFaceApp extends Application.AppBase {
 
     function initialize() {
         AppBase.initialize();
@@ -17,7 +17,7 @@ class CFFfaceApp extends Application.AppBase {
 
     // Return the initial view of your application here
     function getInitialView() {
-        return [ new CFFfaceView() ];
+        return [ new SwissRailwaysWatchFaceView() ];
     }
 
     // New app settings have been received so trigger a UI update
