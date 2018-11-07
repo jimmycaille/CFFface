@@ -28,5 +28,9 @@
             <listEntry value="0x0000FF">@Strings.ColorBlue</listEntry>
         </settingConfig>
     </setting>
+    
+    <setting propertyKey="@Properties.MinHandContour" title="@Strings.MinHandContourTitle">
+        <settingConfig type="boolean" />
+    </setting>
 
 </settings>

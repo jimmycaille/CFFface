@@ -9,14 +9,14 @@ class SwissRailwaysWatchFaceView extends WatchUi.WatchFace {
 	// white id : 84d8f63131b445398459b6b0fc7440d4
 	//clock design constants
 	var c = 120;
-	var minCircle  = 120; //112
-	var minCircle2 = 30;
-	var minDeg     = 2;
-	var minDeg2    = 12;
 	var hrCircle   = 76; //74
 	var hrCircle2  = 30;
 	var hrDeg      = 3;
 	var hrDeg2     = 12;
+	var minCircle  = 120; //112
+	var minCircle2 = 30;
+	var minDeg     = 2;
+	var minDeg2    = 12;
 	var secCircle  = 78; //72
 	var secCircle2 = 38;
 	var secWidth   = 3;
@@ -73,6 +73,20 @@ class SwissRailwaysWatchFaceView extends WatchUi.WatchFace {
 		var m = clockTime.min;
 		var s = clockTime.sec;
 		
+		//hours
+		var hdeg =  -(h%12*360.0/12 + 30*m/60) - 180;
+		var hx1 = c + hrCircle * Math.sin(Math.toRadians(hdeg-hrDeg));
+		var hy1 = c + hrCircle * Math.cos(Math.toRadians(hdeg-hrDeg));
+		var hx2 = c + hrCircle * Math.sin(Math.toRadians(hdeg+hrDeg));
+		var hy2 = c + hrCircle * Math.cos(Math.toRadians(hdeg+hrDeg));
+		var hx3 = c + hrCircle2 * Math.sin(Math.toRadians(hdeg+180-hrDeg2));
+		var hy3 = c + hrCircle2 * Math.cos(Math.toRadians(hdeg+180-hrDeg2));
+		var hx4 = c + hrCircle2 * Math.sin(Math.toRadians(hdeg+180+hrDeg2));
+		var hy4 = c + hrCircle2 * Math.cos(Math.toRadians(hdeg+180+hrDeg2));
+		var hpts = [[hx1,hy1],[hx2,hy2],[hx3,hy3],[hx4,hy4]];
+		dc.setColor(Application.getApp().getProperty("HandsColor"),Application.getApp().getProperty("HandsColor"));
+		dc.fillPolygon(hpts);
+		
 		//min
 		var mdeg =  -(m*360.0/60) - 180 ;
 		var mx1 = c + minCircle * Math.sin(Math.toRadians(mdeg-minDeg));
@@ -86,20 +100,14 @@ class SwissRailwaysWatchFaceView extends WatchUi.WatchFace {
 		dc.setColor(Application.getApp().getProperty("HandsColor"),Application.getApp().getProperty("HandsColor"));
 		var mpts = [[mx1,my1],[mx2,my2],[mx3,my3],[mx4,my4]];
 		dc.fillPolygon(mpts);
-		
-		//hours
-		var hdeg =  -(h%12*360.0/12 + 30*m/60) - 180;
-		var hx1 = c + hrCircle * Math.sin(Math.toRadians(hdeg-hrDeg));
-		var hy1 = c + hrCircle * Math.cos(Math.toRadians(hdeg-hrDeg));
-		var hx2 = c + hrCircle * Math.sin(Math.toRadians(hdeg+hrDeg));
-		var hy2 = c + hrCircle * Math.cos(Math.toRadians(hdeg+hrDeg));
-		var hx3 = c + hrCircle2 * Math.sin(Math.toRadians(hdeg+180-hrDeg2));
-		var hy3 = c + hrCircle2 * Math.cos(Math.toRadians(hdeg+180-hrDeg2));
-		var hx4 = c + hrCircle2 * Math.sin(Math.toRadians(hdeg+180+hrDeg2));
-		var hy4 = c + hrCircle2 * Math.cos(Math.toRadians(hdeg+180+hrDeg2));
-		dc.setColor(Application.getApp().getProperty("HandsColor"),Application.getApp().getProperty("HandsColor"));
-		var hpts = [[hx1,hy1],[hx2,hy2],[hx3,hy3],[hx4,hy4]];
-		dc.fillPolygon(hpts);
+		if(Application.getApp().getProperty("MinHandContour")){
+			dc.setColor(Application.getApp().getProperty("BackgroundColor"),Application.getApp().getProperty("BackgroundColor"));
+			dc.setPenWidth(1);
+			dc.drawLine(mx1,my1,mx2,my2);
+			dc.drawLine(mx2,my2,mx3,my3);
+			dc.drawLine(mx3,my3,mx4,my4);
+			dc.drawLine(mx4,my4,mx1,my1);
+		}
 		
 		//sec
 		if(!sleeping){
