@@ -7,6 +7,7 @@ using Toybox.Application;
 class SwissRailwaysWatchFaceView extends WatchUi.WatchFace {
 	// blk id : 0044e48fd7a84f1da38efcc5a18d9913 
 	// white id : 84d8f63131b445398459b6b0fc7440d4
+	// no img : 824920a6-ba4f-43ef-b29f-b0b8a8482025
 	//clock design constants
 	var c = 120;
 	var hrCircle   = 76; //74
@@ -72,6 +73,40 @@ class SwissRailwaysWatchFaceView extends WatchUi.WatchFace {
 		var h = clockTime.hour;
 		var m = clockTime.min;
 		var s = clockTime.sec;
+		
+		//test ticks with polygons
+		//1min ticks
+		for(var i=0;i<360;i+=6){
+			var ticCircle1;
+			var ticCircle2;
+			var ticWidth1;
+			var ticWidth2;
+			if(i%30==0){
+				//5min
+				ticCircle1 = 120;
+				ticCircle2 = 91;
+				ticWidth1  = 1.7;
+				ticWidth2  = 2;
+				dc.setColor(Application.getApp().getProperty("BigTicksColor"),Application.getApp().getProperty("BigTicksColor"));
+			}else{
+				//1min
+				ticCircle1 = 120;
+				ticCircle2 = 112;
+				ticWidth1  = 0.5;
+				ticWidth2  = 0.5;
+				dc.setColor(Application.getApp().getProperty("SmallTicksColor"),Application.getApp().getProperty("SmallTicksColor"));
+			}
+			var hx1 = c + ticCircle1 * Math.sin(Math.toRadians(i-ticWidth1));
+			var hy1 = c + ticCircle1 * Math.cos(Math.toRadians(i-ticWidth1));
+			var hx2 = c + ticCircle1 * Math.sin(Math.toRadians(i+ticWidth1));
+			var hy2 = c + ticCircle1 * Math.cos(Math.toRadians(i+ticWidth1));
+			var hx3 = c + ticCircle2 * Math.sin(Math.toRadians(i+ticWidth2));
+			var hy3 = c + ticCircle2 * Math.cos(Math.toRadians(i+ticWidth2));
+			var hx4 = c + ticCircle2 * Math.sin(Math.toRadians(i-ticWidth2));
+			var hy4 = c + ticCircle2 * Math.cos(Math.toRadians(i-ticWidth2));
+			var hpts = [[hx1,hy1],[hx2,hy2],[hx3,hy3],[hx4,hy4]];
+			dc.fillPolygon(hpts);
+		}
 		
 		//hours
 		var hdeg =  -(h%12*360.0/12 + 30*m/60) - 180;

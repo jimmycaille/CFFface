@@ -1,6 +1,8 @@
 <properties>
 	<property id="HandsColor" type="number">0x000000</property> <!-- 0xFFFFFF for 2 -->
 	<property id="SecondsHandColor" type="number">0xFF0000</property>
-    <property id="BackgroundColor" type="number">0xFFFFFF</property> <!-- 0x000000 for 2 -->
     <property id="MinHandContour" type="boolean">false</property>
+	<property id="BigTicksColor" type="number">0x000000</property>
+	<property id="SmallTicksColor" type="number">0x000000</property>
+    <property id="BackgroundColor" type="number">0xFFFFFF</property> <!-- 0x000000 for 2 -->
 </properties>
