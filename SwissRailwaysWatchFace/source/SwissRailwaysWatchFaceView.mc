@@ -3,6 +3,7 @@ using Toybox.Graphics;
 using Toybox.System;
 using Toybox.Lang;
 using Toybox.Application;
+using Toybox.Time.Gregorian;
 
 class SwissRailwaysWatchFaceView extends WatchUi.WatchFace {
 	// blk id : 0044e48fd7a84f1da38efcc5a18d9913 
@@ -73,8 +74,9 @@ class SwissRailwaysWatchFaceView extends WatchUi.WatchFace {
 		var h = clockTime.hour;
 		var m = clockTime.min;
 		var s = clockTime.sec;
+		var today = Gregorian.info(Time.now(), Time.FORMAT_SHORT);
+		var d     = today.day;
 		
-		//test ticks with polygons
 		//1min ticks
 		for(var i=0;i<360;i+=6){
 			var ticCircle1;
@@ -106,6 +108,84 @@ class SwissRailwaysWatchFaceView extends WatchUi.WatchFace {
 			var hy4 = c + ticCircle2 * Math.cos(Math.toRadians(i-ticWidth2));
 			var hpts = [[hx1,hy1],[hx2,hy2],[hx3,hy3],[hx4,hy4]];
 			dc.fillPolygon(hpts);
+		}
+		
+		//phone state
+		//System.getDeviceSettings().connectionInfo[:bluetooth].state==2?"Connected":System.getDeviceSettings().connectionInfo[:bluetooth].state==1?"Not connected":"Not initialized")
+		//System.println("phoneConnected   : " + System.getDeviceSettings().phoneConnected);
+		if(true){
+			var btState = System.getDeviceSettings().connectionInfo[:bluetooth].state;
+			if(btState==0){//Not initialized
+				dc.setColor(Graphics.COLOR_RED,Graphics.COLOR_TRANSPARENT);
+			}else if(btState==1){//Disconnected
+				dc.setColor(Graphics.COLOR_YELLOW,Graphics.COLOR_TRANSPARENT);
+			}else if(btState==2){//Connected
+				dc.setColor(Graphics.COLOR_GREEN,Graphics.COLOR_TRANSPARENT);
+			}
+			dc.setPenWidth(1);
+			dc.fillRoundedRectangle(80,39,15,24,3);
+			dc.setColor(Graphics.COLOR_WHITE,Graphics.COLOR_TRANSPARENT);
+			dc.fillRectangle(82,41,11,15);
+			dc.fillCircle(87,59,2);
+			//dc.drawPoint(59,82);
+		}
+		
+		//notifications
+		var notCnt = System.getDeviceSettings().notificationCount;
+		if(notCnt > 0){
+			//TODO change color
+			dc.setColor(Application.getApp().getProperty("CurrentDayColor"),Application.getApp().getProperty("BackgroundColor"));
+			dc.drawText(120,52,Graphics.FONT_SYSTEM_XTINY,notCnt,Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
+			dc.setPenWidth(2);
+			dc.drawRectangle(105,39,31,23);
+			dc.drawLine(105,39,120,44);
+			dc.drawLine(120,44,135,39);
+		}
+		
+		//alarms
+		var alarmCnt = System.getDeviceSettings().alarmCount;
+		if(alarmCnt > 0){
+			//TODO change color
+			dc.setColor(Application.getApp().getProperty("CurrentDayColor"),Application.getApp().getProperty("BackgroundColor"));
+			dc.drawText(158,52,Graphics.FONT_SYSTEM_XTINY,alarmCnt,Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
+			dc.setPenWidth(2);
+			dc.drawCircle(158,52,9);
+			dc.drawArc(158,52,13,Graphics.ARC_CLOCKWISE,25,-25);
+			dc.drawArc(158,52,16,Graphics.ARC_CLOCKWISE,30,-30);
+			dc.drawArc(158,52,13,Graphics.ARC_COUNTER_CLOCKWISE,155,205);
+			dc.drawArc(158,52,16,Graphics.ARC_COUNTER_CLOCKWISE,150,210);
+		}
+		
+		//day
+		if(true){//(Application.getApp().getProperty("ShowCurrentDay")
+			dc.setColor(Application.getApp().getProperty("CurrentDayColor"),Graphics.COLOR_TRANSPARENT);
+			dc.drawText(192,120,Graphics.FONT_SYSTEM_XTINY,d,Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
+			dc.setPenWidth(2);
+			dc.drawRectangle(180,111,25,20);
+		}
+		
+		//battery
+		if(true){//(Application.getApp().getProperty("ShowBatteryState")
+			var bat = System.getSystemStats().battery;
+			
+			if(bat>Application.getApp().getProperty("BattLevel1")){
+				dc.setColor(Graphics.COLOR_BLUE,Graphics.COLOR_TRANSPARENT);
+			}else if(bat>Application.getApp().getProperty("BattLevel2")){
+				dc.setColor(Graphics.COLOR_GREEN,Graphics.COLOR_TRANSPARENT);
+			}else if(bat>Application.getApp().getProperty("BattLevel3")){
+				dc.setColor(Graphics.COLOR_YELLOW,Graphics.COLOR_TRANSPARENT);
+			}else if(bat>Application.getApp().getProperty("BattLevel4")){
+				dc.setColor(Graphics.COLOR_ORANGE,Graphics.COLOR_TRANSPARENT);
+			}else{
+				dc.setColor(Graphics.COLOR_RED,Graphics.COLOR_TRANSPARENT);
+			}
+			dc.setPenWidth(1);
+			dc.fillRectangle(99,187,42,18);
+			dc.fillRectangle(142,190,3,11);
+			
+			dc.setColor(Application.getApp().getProperty("BackgroundColor"),Graphics.COLOR_TRANSPARENT);
+			dc.drawText(120,195,Graphics.FONT_SYSTEM_XTINY,bat.format("%2d")+"%",Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
+			
 		}
 		
 		//hours

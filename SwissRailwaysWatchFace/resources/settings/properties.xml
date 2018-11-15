@@ -5,4 +5,11 @@
 	<property id="BigTicksColor" type="number">0x000000</property>
 	<property id="SmallTicksColor" type="number">0x000000</property>
     <property id="BackgroundColor" type="number">0xFFFFFF</property> <!-- 0x000000 for 2 -->
+    <property id="ShowCurrentDay" type="boolean">false</property>
+    <property id="CurrentDayColor" type="number">0x000000</property>
+    <property id="ShowBatteryState" type="boolean">false</property>
+    <property id="BattLevel1" type="number">89</property>
+    <property id="BattLevel2" type="number">49</property>
+    <property id="BattLevel3" type="number">24</property>
+    <property id="BattLevel4" type="number">14</property>
 </properties>

@@ -52,5 +52,36 @@
             <listEntry value="0x0000FF">@Strings.ColorBlue</listEntry>
         </settingConfig>
     </setting>
+    
+    <setting propertyKey="@Properties.ShowCurrentDay" title="@Strings.ShowCurrentDayTitle">
+        <settingConfig type="boolean"/>
+    </setting>
+    
+    <setting propertyKey="@Properties.CurrentDayColor" title="@Strings.CurrentDayColorTitle">
+        <settingConfig type="list">
+            <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
+            <listEntry value="0x000000">@Strings.ColorBlack</listEntry>
+            <listEntry value="0xFF0000">@Strings.ColorRed</listEntry>
+            <listEntry value="0x00FF00">@Strings.ColorGreen</listEntry>
+            <listEntry value="0x0000FF">@Strings.ColorBlue</listEntry>
+        </settingConfig>
+    </setting>
+    
+    <setting propertyKey="@Properties.ShowBatteryState" title="@Strings.ShowBatteryStateTitle">
+        <settingConfig type="boolean"/>
+    </setting>
+    
+    <setting propertyKey="@Properties.BattLevel1" title="@Strings.BattLevel1Title">
+        <settingConfig type="numeric" min="0" max="100" required="true"/>
+    </setting>
+    <setting propertyKey="@Properties.BattLevel2" title="@Strings.BattLevel2Title">
+        <settingConfig type="numeric" min="0" max="100" required="true"/>
+    </setting>
+    <setting propertyKey="@Properties.BattLevel3" title="@Strings.BattLevel3Title">
+        <settingConfig type="numeric" min="0" max="100" required="true"/>
+    </setting>
+    <setting propertyKey="@Properties.BattLevel4" title="@Strings.BattLevel4Title">
+        <settingConfig type="numeric" min="0" max="100" required="true"/>
+    </setting>
 
 </settings>
