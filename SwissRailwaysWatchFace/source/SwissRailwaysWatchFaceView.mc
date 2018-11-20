@@ -4,6 +4,7 @@ using Toybox.System;
 using Toybox.Lang;
 using Toybox.Application;
 using Toybox.Time.Gregorian;
+using Toybox.Application.Storage;
 
 class SwissRailwaysWatchFaceView extends WatchUi.WatchFace {
 	// blk id : 0044e48fd7a84f1da38efcc5a18d9913 
@@ -28,6 +29,17 @@ class SwissRailwaysWatchFaceView extends WatchUi.WatchFace {
 	var sleeping=false;
     function initialize() {
         WatchFace.initialize();
+        
+        //https://developer.garmin.com/downloads/connect-iq/monkey-c/doc/Toybox/Application/Storage.html
+        var int = 0;
+        if(Storage has :number){
+        	int = Storage.getValue(number);
+       	}
+        System.println("app launched:"+int);
+        int += 1;
+        Storage.setValue("number", int);
+        
+        
     }
 
     // Load your resources here
@@ -156,6 +168,43 @@ class SwissRailwaysWatchFaceView extends WatchUi.WatchFace {
 			dc.drawArc(158,52,16,Graphics.ARC_COUNTER_CLOCKWISE,150,210);
 		}
 		
+		//altimeter
+		var customFont = WatchUi.loadResource(Rez.Fonts.fixedsysSmall);
+		if ((Toybox has :SensorHistory) && (Toybox.SensorHistory has :getElevationHistory)) {
+	        var iter = Toybox.SensorHistory.getElevationHistory({});
+	        var lastVal = iter.next().data.format("%.1f");
+			//TODO change color
+			dc.setColor(Application.getApp().getProperty("CurrentDayColor"),Application.getApp().getProperty("BackgroundColor"));
+	        dc.drawText(35,105,customFont,lastVal+"m",Graphics.TEXT_JUSTIFY_LEFT|Graphics.TEXT_JUSTIFY_VCENTER);
+	    }
+	    
+		//pressure
+		if ((Toybox has :SensorHistory) && (Toybox.SensorHistory has :getPressureHistory)) {
+	        var iter = Toybox.SensorHistory.getPressureHistory({});
+	        var lastVal = (iter.next().data/100.0).format("%.2f");
+			//TODO change color
+			dc.setColor(Application.getApp().getProperty("CurrentDayColor"),Application.getApp().getProperty("BackgroundColor"));
+	        dc.drawText(35,115,customFont,lastVal+"hPa",Graphics.TEXT_JUSTIFY_LEFT|Graphics.TEXT_JUSTIFY_VCENTER);
+	    }
+		
+		//temperature
+		if ((Toybox has :SensorHistory) && (Toybox.SensorHistory has :getTemperatureHistory)) {
+	        var iter = Toybox.SensorHistory.getTemperatureHistory({});
+	        var lastVal = iter.next().data.format("%.1f");
+			//TODO change color
+			dc.setColor(Application.getApp().getProperty("CurrentDayColor"),Application.getApp().getProperty("BackgroundColor"));
+	        dc.drawText(35,125,customFont,lastVal+"°C",Graphics.TEXT_JUSTIFY_LEFT|Graphics.TEXT_JUSTIFY_VCENTER);
+	    }
+	    
+		//heartrate
+		if ((Toybox has :SensorHistory) && (Toybox.SensorHistory has :getHeartRateHistory)) {
+	        var iter = Toybox.SensorHistory.getHeartRateHistory({});
+	        var lastVal = iter.next().data;
+			//TODO change color
+			dc.setColor(Application.getApp().getProperty("CurrentDayColor"),Application.getApp().getProperty("BackgroundColor"));
+	        dc.drawText(35,135,customFont,lastVal+"bpm",Graphics.TEXT_JUSTIFY_LEFT|Graphics.TEXT_JUSTIFY_VCENTER);
+	    }
+	    
 		//day
 		if(true){//(Application.getApp().getProperty("ShowCurrentDay")
 			dc.setColor(Application.getApp().getProperty("CurrentDayColor"),Graphics.COLOR_TRANSPARENT);

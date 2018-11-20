@@ -7,199 +7,232 @@
 <entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceBackground.mc" id="4" lineNum="15" pc="268435502" symbol="draw"/>
 <entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceBackground.mc" id="4" lineNum="17" pc="268435506" symbol="draw"/>
 <entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceBackground.mc" id="4" lineNum="18" pc="268435559" symbol="draw"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="6" lineNum="29" pc="268435572" symbol="initialize"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="6" lineNum="30" pc="268435576" symbol="initialize"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="7" lineNum="34" pc="268435595" symbol="onLayout"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="7" lineNum="35" pc="268435599" symbol="onLayout"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="8" lineNum="41" pc="268435637" symbol="onShow"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="45" pc="268435642" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="47" pc="268435646" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="72" pc="268435663" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="74" pc="268435683" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="75" pc="268435693" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="76" pc="268435703" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="77" pc="268435713" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="78" pc="268435761" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="81" pc="268435771" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="82" pc="268435789" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="83" pc="268435789" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="84" pc="268435789" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="85" pc="268435789" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="86" pc="268435789" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="88" pc="268435806" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="89" pc="268435813" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="90" pc="268435820" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="91" pc="268435827" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="92" pc="268435834" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="95" pc="268435907" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="96" pc="268435914" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="97" pc="268435921" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="98" pc="268435928" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="99" pc="268435935" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="101" pc="268436005" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="102" pc="268436058" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="103" pc="268436111" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="104" pc="268436164" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="105" pc="268436217" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="106" pc="268436270" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="107" pc="268436323" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="108" pc="268436376" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="109" pc="268436429" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="110" pc="268436573" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="116" pc="268436600" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="117" pc="268436605" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="118" pc="268436640" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="119" pc="268436651" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="120" pc="268436690" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="121" pc="268436701" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="122" pc="268436740" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="123" pc="268436751" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="125" pc="268436790" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="126" pc="268436807" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="127" pc="268436844" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="128" pc="268436880" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="129" pc="268436912" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="134" pc="268436942" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="135" pc="268436965" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="137" pc="268436976" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="138" pc="268437046" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="139" pc="268437107" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="140" pc="268437124" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="141" pc="268437156" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="142" pc="268437188" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="146" pc="268437223" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="147" pc="268437246" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="149" pc="268437257" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="150" pc="268437327" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="151" pc="268437388" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="152" pc="268437405" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="153" pc="268437432" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="154" pc="268437481" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="155" pc="268437530" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="156" pc="268437579" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="160" pc="268437631" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="161" pc="268437636" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="162" pc="268437689" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="163" pc="268437750" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="164" pc="268437767" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="168" pc="268437802" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="169" pc="268437807" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="171" pc="268437830" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="172" pc="268437865" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="173" pc="268437904" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="174" pc="268437939" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="175" pc="268437978" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="176" pc="268438013" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="177" pc="268438052" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="178" pc="268438087" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="180" pc="268438126" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="182" pc="268438162" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="183" pc="268438179" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="184" pc="268438211" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="186" pc="268438243" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="187" pc="268438296" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="192" pc="268438380" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="193" pc="268438429" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="194" pc="268438494" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="195" pc="268438559" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="196" pc="268438624" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="197" pc="268438689" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="198" pc="268438760" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="199" pc="268438831" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="200" pc="268438902" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="201" pc="268438973" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="202" pc="268439117" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="203" pc="268439187" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="206" pc="268439201" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="207" pc="268439229" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="208" pc="268439294" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="209" pc="268439359" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="210" pc="268439424" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="211" pc="268439489" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="212" pc="268439560" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="213" pc="268439631" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="214" pc="268439702" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="215" pc="268439773" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="216" pc="268439843" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="217" pc="268439987" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="218" pc="268440001" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="219" pc="268440033" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="220" pc="268440103" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="221" pc="268440120" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="222" pc="268440140" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="223" pc="268440160" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="224" pc="268440180" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="228" pc="268440203" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="229" pc="268440215" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="230" pc="268440243" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="231" pc="268440299" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="232" pc="268440355" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="233" pc="268440417" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="234" pc="268440479" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="235" pc="268440549" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="236" pc="268440573" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="237" pc="268440603" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="238" pc="268440623" symbol="onUpdate"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="10" lineNum="245" pc="268440647" symbol="onHide"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="11" lineNum="249" pc="268440652" symbol="onExitSleep"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="11" lineNum="250" pc="268440656" symbol="onExitSleep"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="12" lineNum="254" pc="268440667" symbol="onEnterSleep"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="12" lineNum="255" pc="268440671" symbol="onEnterSleep"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceApp.mc" id="14" lineNum="6" pc="268440682" symbol="initialize"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceApp.mc" id="14" lineNum="7" pc="268440686" symbol="initialize"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceApp.mc" id="15" lineNum="11" pc="268440705" symbol="onStart"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceApp.mc" id="16" lineNum="15" pc="268440710" symbol="onStop"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceApp.mc" id="17" lineNum="19" pc="268440715" symbol="getInitialView"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceApp.mc" id="17" lineNum="20" pc="268440719" symbol="getInitialView"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceApp.mc" id="18" lineNum="24" pc="268440757" symbol="onSettingsChanged"/>
-<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceApp.mc" id="18" lineNum="25" pc="268440761" symbol="onSettingsChanged"/>
-<entry filename="Rez" id="25" lineNum="39" pc="268440778" symbol="WatchFace"/>
-<entry filename="Rez" id="25" lineNum="43" pc="268440790" symbol="WatchFace"/>
-<entry filename="Rez" id="25" lineNum="46" pc="268440814" symbol="WatchFace"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="6" lineNum="30" pc="268435572" symbol="initialize"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="6" lineNum="31" pc="268435576" symbol="initialize"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="6" lineNum="34" pc="268435594" symbol="initialize"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="6" lineNum="35" pc="268435601" symbol="initialize"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="6" lineNum="36" pc="268435616" symbol="initialize"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="6" lineNum="38" pc="268435644" symbol="initialize"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="6" lineNum="39" pc="268435668" symbol="initialize"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="6" lineNum="40" pc="268435678" symbol="initialize"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="7" lineNum="46" pc="268435702" symbol="onLayout"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="7" lineNum="47" pc="268435706" symbol="onLayout"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="8" lineNum="53" pc="268435744" symbol="onShow"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="57" pc="268435749" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="59" pc="268435753" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="84" pc="268435770" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="86" pc="268435790" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="87" pc="268435800" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="88" pc="268435810" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="89" pc="268435820" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="90" pc="268435868" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="93" pc="268435878" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="94" pc="268435896" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="95" pc="268435896" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="96" pc="268435896" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="97" pc="268435896" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="98" pc="268435896" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="100" pc="268435913" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="101" pc="268435920" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="102" pc="268435927" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="103" pc="268435934" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="104" pc="268435941" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="107" pc="268436014" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="108" pc="268436021" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="109" pc="268436028" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="110" pc="268436035" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="111" pc="268436042" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="113" pc="268436112" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="114" pc="268436165" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="115" pc="268436218" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="116" pc="268436271" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="117" pc="268436324" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="118" pc="268436377" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="119" pc="268436430" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="120" pc="268436483" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="121" pc="268436536" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="122" pc="268436680" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="128" pc="268436707" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="129" pc="268436712" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="130" pc="268436747" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="131" pc="268436758" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="132" pc="268436797" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="133" pc="268436808" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="134" pc="268436847" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="135" pc="268436858" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="137" pc="268436897" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="138" pc="268436914" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="139" pc="268436951" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="140" pc="268436987" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="141" pc="268437019" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="146" pc="268437049" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="147" pc="268437072" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="149" pc="268437083" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="150" pc="268437153" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="151" pc="268437214" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="152" pc="268437231" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="153" pc="268437263" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="154" pc="268437295" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="158" pc="268437330" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="159" pc="268437353" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="161" pc="268437364" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="162" pc="268437434" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="163" pc="268437495" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="164" pc="268437512" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="165" pc="268437539" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="166" pc="268437588" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="167" pc="268437637" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="168" pc="268437686" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="172" pc="268437738" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="173" pc="268437775" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="174" pc="268437818" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="175" pc="268437849" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="177" pc="268437882" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="178" pc="268437952" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="182" pc="268438012" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="183" pc="268438055" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="184" pc="268438086" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="186" pc="268438125" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="187" pc="268438195" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="191" pc="268438255" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="192" pc="268438298" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="193" pc="268438329" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="195" pc="268438362" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="196" pc="268438432" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="200" pc="268438492" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="201" pc="268438535" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="202" pc="268438566" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="204" pc="268438585" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="205" pc="268438655" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="209" pc="268438715" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="210" pc="268438720" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="211" pc="268438773" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="212" pc="268438834" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="213" pc="268438851" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="217" pc="268438886" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="218" pc="268438891" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="220" pc="268438914" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="221" pc="268438949" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="222" pc="268438988" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="223" pc="268439023" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="224" pc="268439062" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="225" pc="268439097" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="226" pc="268439136" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="227" pc="268439171" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="229" pc="268439210" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="231" pc="268439246" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="232" pc="268439263" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="233" pc="268439295" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="235" pc="268439327" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="236" pc="268439380" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="241" pc="268439464" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="242" pc="268439513" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="243" pc="268439578" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="244" pc="268439643" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="245" pc="268439708" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="246" pc="268439773" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="247" pc="268439844" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="248" pc="268439915" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="249" pc="268439986" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="250" pc="268440057" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="251" pc="268440201" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="252" pc="268440271" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="255" pc="268440285" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="256" pc="268440313" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="257" pc="268440378" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="258" pc="268440443" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="259" pc="268440508" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="260" pc="268440573" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="261" pc="268440644" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="262" pc="268440715" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="263" pc="268440786" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="264" pc="268440857" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="265" pc="268440927" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="266" pc="268441071" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="267" pc="268441085" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="268" pc="268441117" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="269" pc="268441187" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="270" pc="268441204" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="271" pc="268441224" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="272" pc="268441244" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="273" pc="268441264" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="277" pc="268441287" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="278" pc="268441299" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="279" pc="268441327" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="280" pc="268441383" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="281" pc="268441439" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="282" pc="268441501" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="283" pc="268441563" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="284" pc="268441633" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="285" pc="268441657" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="286" pc="268441687" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="9" lineNum="287" pc="268441707" symbol="onUpdate"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="10" lineNum="294" pc="268441731" symbol="onHide"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="11" lineNum="298" pc="268441736" symbol="onExitSleep"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="11" lineNum="299" pc="268441740" symbol="onExitSleep"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="12" lineNum="303" pc="268441751" symbol="onEnterSleep"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceView.mc" id="12" lineNum="304" pc="268441755" symbol="onEnterSleep"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceApp.mc" id="14" lineNum="6" pc="268441766" symbol="initialize"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceApp.mc" id="14" lineNum="7" pc="268441770" symbol="initialize"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceApp.mc" id="15" lineNum="11" pc="268441789" symbol="onStart"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceApp.mc" id="16" lineNum="15" pc="268441794" symbol="onStop"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceApp.mc" id="17" lineNum="19" pc="268441799" symbol="getInitialView"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceApp.mc" id="17" lineNum="20" pc="268441803" symbol="getInitialView"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceApp.mc" id="18" lineNum="24" pc="268441841" symbol="onSettingsChanged"/>
+<entry filename="D:\\git\\SwissRailwaysWatchFace\\SwissRailwaysWatchFace\\source\\SwissRailwaysWatchFaceApp.mc" id="18" lineNum="25" pc="268441845" symbol="onSettingsChanged"/>
+<entry filename="Rez" id="25" lineNum="40" pc="268441862" symbol="WatchFace"/>
+<entry filename="Rez" id="25" lineNum="44" pc="268441874" symbol="WatchFace"/>
+<entry filename="Rez" id="25" lineNum="47" pc="268441898" symbol="WatchFace"/>
 </pcToLineNum>
 <symbolTable>
-<entry field="true" id="32" symbol="BigTicksColorTitle"/>
+<entry field="true" id="33" symbol="BigTicksColorTitle"/>
 <entry id="8388644" module="true" symbol="System"/>
-<entry field="true" id="34" symbol="HandsColorTitle"/>
+<entry id="8389781" module="true" symbol="SensorHistory"/>
+<entry field="true" id="35" symbol="HandsColorTitle"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry field="true" id="8390485" symbol="bluetooth"/>
-<entry field="true" id="30" symbol="ColorBlue"/>
+<entry field="true" id="31" symbol="ColorBlue"/>
+<entry id="8390424" module="true" symbol="Storage"/>
 <entry field="true" id="21" symbol="secCircle2"/>
 <entry field="true" id="25" symbol="sleeping"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-<entry field="true" id="38" symbol="ColorOrange"/>
+<entry field="true" id="39" symbol="ColorOrange"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
-<entry field="true" id="48" symbol="ColorGreen"/>
+<entry field="true" id="49" symbol="ColorGreen"/>
 <entry field="true" id="18" symbol="minDeg"/>
-<entry field="true" id="42" symbol="BattLevel2Title"/>
+<entry field="true" id="43" symbol="BattLevel2Title"/>
 <entry id="10" object="true" symbol="SwissRailwaysWatchFaceApp"/>
 <entry field="true" id="13" symbol="hrCircle2"/>
-<entry field="true" id="43" symbol="CurrentDayColorTitle"/>
-<entry field="true" id="46" symbol="ColorWhite"/>
+<entry field="true" id="44" symbol="CurrentDayColorTitle"/>
+<entry field="true" id="47" symbol="ColorWhite"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="8389068" method="true" symbol="draw"/>
 <entry id="8389377" method="true" symbol="onExitSleep"/>
 <entry id="8388640" module="true" symbol="Lang"/>
 <entry id="8388639" module="true" symbol="Graphics"/>
-<entry field="true" id="36" symbol="ColorBlack"/>
+<entry id="8389802" method="true" symbol="getElevationHistory"/>
+<entry field="true" id="37" symbol="ColorBlack"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
 <entry id="8389123" method="true" symbol="onShow"/>
 <entry id="8388924" module="true" symbol="Gregorian"/>
 <entry field="true" id="20" symbol="secCircle"/>
-<entry field="true" id="41" symbol="ColorRed"/>
+<entry field="true" id="42" symbol="ColorRed"/>
+<entry field="true" id="29" symbol="fixedsysSmall"/>
 <entry field="true" id="24" symbol="secRadius2"/>
 <entry field="true" id="23" symbol="secRadius1"/>
-<entry field="true" id="39" symbol="BattLevel4Title"/>
+<entry field="true" id="40" symbol="BattLevel4Title"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="40" symbol="AppName"/>
-<entry field="true" id="29" symbol="ShowCurrentDayTitle"/>
+<entry field="true" id="41" symbol="AppName"/>
+<entry field="true" id="30" symbol="ShowCurrentDayTitle"/>
+<entry id="50" symbol="number"/>
 <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
 <entry field="true" id="19" symbol="minDeg2"/>
-<entry field="true" id="37" symbol="SmallTicksColorTitle"/>
+<entry field="true" id="38" symbol="SmallTicksColorTitle"/>
 <entry id="8390146" module="true" object="true" symbol="Background"/>
 <entry field="true" id="16" symbol="minCircle"/>
 <entry field="true" id="28" symbol="LauncherIcon"/>
 <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry id="8389801" method="true" symbol="getPressureHistory"/>
 <entry id="8388648" module="true" symbol="WatchUi"/>
 <entry id="8389281" method="true" symbol="onStop"/>
 <entry id="9" object="true" symbol="SwissRailwaysWatchFaceView"/>
@@ -208,21 +241,23 @@
 <entry id="8389122" method="true" symbol="onLayout"/>
 <entry field="true" id="17" symbol="minCircle2"/>
 <entry id="8389279" method="true" symbol="onStart"/>
-<entry field="true" id="35" symbol="BattLevel1Title"/>
-<entry field="true" id="45" symbol="MinHandContourTitle"/>
+<entry field="true" id="36" symbol="BattLevel1Title"/>
+<entry field="true" id="46" symbol="MinHandContourTitle"/>
 <entry id="8389376" method="true" symbol="onEnterSleep"/>
-<entry field="true" id="33" symbol="BackgroundColorTitle"/>
+<entry field="true" id="34" symbol="BackgroundColorTitle"/>
 <entry field="true" id="22" symbol="secWidth"/>
-<entry field="true" id="47" symbol="ShowBatteryStateTitle"/>
+<entry field="true" id="48" symbol="ShowBatteryStateTitle"/>
+<entry id="8389702" method="true" symbol="getHeartRateHistory"/>
 <entry field="true" id="12" symbol="hrCircle"/>
 <entry id="27" module="true" symbol="Layouts"/>
-<entry field="true" id="44" symbol="BattLevel3Title"/>
+<entry field="true" id="45" symbol="BattLevel3Title"/>
 <entry id="8389125" method="true" symbol="onHide"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
 <entry field="true" id="8389063" symbol="identifier"/>
-<entry field="true" id="31" symbol="SecondsHandColorTitle"/>
+<entry field="true" id="32" symbol="SecondsHandColorTitle"/>
 <entry field="true" id="15" symbol="hrDeg2"/>
 <entry id="26" module="true" symbol="Menus"/>
+<entry id="8389800" method="true" symbol="getTemperatureHistory"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
 <entry field="true" id="11" symbol="c"/>
 <entry id="8388635" module="true" symbol="Application"/>
@@ -230,61 +265,71 @@
 <localVars>
 <entry endPc="268435501" name="dictionary" stackId="1" startPc="268435460"/>
 <entry endPc="268435572" name="dc" stackId="1" startPc="268435502"/>
-<entry endPc="268435637" name="dc" stackId="1" startPc="268435595"/>
-<entry endPc="268436587" name="hy4" stackId="20" startPc="268435789"/>
-<entry endPc="268436587" name="hy3" stackId="18" startPc="268435789"/>
-<entry endPc="268436587" name="ticWidth2" stackId="12" startPc="268435789"/>
-<entry endPc="268436587" name="ticCircle2" stackId="10" startPc="268435789"/>
-<entry endPc="268436587" name="hy2" stackId="16" startPc="268435789"/>
-<entry endPc="268436587" name="ticCircle1" stackId="9" startPc="268435789"/>
-<entry endPc="268436587" name="ticWidth1" stackId="11" startPc="268435789"/>
-<entry endPc="268436587" name="hy1" stackId="14" startPc="268435789"/>
-<entry endPc="268436587" name="hx4" stackId="19" startPc="268435789"/>
-<entry endPc="268436587" name="hx3" stackId="17" startPc="268435789"/>
-<entry endPc="268436587" name="hx2" stackId="15" startPc="268435789"/>
-<entry endPc="268436587" name="hx1" stackId="13" startPc="268435789"/>
-<entry endPc="268436587" name="hpts" stackId="21" startPc="268435789"/>
-<entry endPc="268436600" name="i" stackId="8" startPc="268435789"/>
-<entry endPc="268436939" name="btState" stackId="22" startPc="268436605"/>
-<entry endPc="268438377" name="bat" stackId="25" startPc="268437807"/>
-<entry endPc="268440643" name="sdeg" stackId="46" startPc="268440215"/>
-<entry endPc="268440643" name="ly" stackId="50" startPc="268440215"/>
-<entry endPc="268440643" name="lx" stackId="49" startPc="268440215"/>
-<entry endPc="268440643" name="sy" stackId="48" startPc="268440215"/>
-<entry endPc="268440643" name="sx" stackId="47" startPc="268440215"/>
-<entry endPc="268440646" name="mx4" stackId="43" startPc="268435646"/>
-<entry endPc="268440646" name="mx3" stackId="41" startPc="268435646"/>
-<entry endPc="268440646" name="mx2" stackId="39" startPc="268435646"/>
-<entry endPc="268440646" name="mx1" stackId="37" startPc="268435646"/>
-<entry endPc="268440646" name="mpts" stackId="45" startPc="268435646"/>
-<entry endPc="268440646" name="hx4" stackId="33" startPc="268435646"/>
-<entry endPc="268440646" name="hx3" stackId="31" startPc="268435646"/>
-<entry endPc="268440646" name="notCnt" stackId="23" startPc="268435646"/>
-<entry endPc="268440646" name="hx2" stackId="29" startPc="268435646"/>
-<entry endPc="268440646" name="hx1" stackId="27" startPc="268435646"/>
-<entry endPc="268440646" name="my4" stackId="44" startPc="268435646"/>
-<entry endPc="268440646" name="my3" stackId="42" startPc="268435646"/>
-<entry endPc="268440646" name="my2" stackId="40" startPc="268435646"/>
-<entry endPc="268440646" name="my1" stackId="38" startPc="268435646"/>
-<entry endPc="268440646" name="hpts" stackId="35" startPc="268435646"/>
-<entry endPc="268440646" name="s" stackId="5" startPc="268435646"/>
-<entry endPc="268440646" name="clockTime" stackId="2" startPc="268435646"/>
-<entry endPc="268440646" name="hy4" stackId="34" startPc="268435646"/>
-<entry endPc="268440646" name="hy3" stackId="32" startPc="268435646"/>
-<entry endPc="268440646" name="hy2" stackId="30" startPc="268435646"/>
-<entry endPc="268440646" name="hy1" stackId="28" startPc="268435646"/>
-<entry endPc="268440646" name="m" stackId="4" startPc="268435646"/>
-<entry endPc="268440646" name="mdeg" stackId="36" startPc="268435646"/>
-<entry endPc="268440646" name="h" stackId="3" startPc="268435646"/>
-<entry endPc="268440646" name="today" stackId="6" startPc="268435646"/>
-<entry endPc="268440646" name="d" stackId="7" startPc="268435646"/>
-<entry endPc="268440646" name="alarmCnt" stackId="24" startPc="268435646"/>
-<entry endPc="268440646" name="hdeg" stackId="26" startPc="268435646"/>
-<entry endPc="268440647" name="dc" stackId="1" startPc="268435642"/>
-<entry endPc="268440710" name="state" stackId="1" startPc="268440705"/>
-<entry endPc="268440715" name="state" stackId="1" startPc="268440710"/>
-<entry endPc="268440831" name="rez_cmp_local_custom_drawable_17736636821608367633" stackId="2" startPc="268440790"/>
-<entry endPc="268440832" name="dc" stackId="1" startPc="268440778"/>
+<entry endPc="268435701" name="int" stackId="1" startPc="268435576"/>
+<entry endPc="268435744" name="dc" stackId="1" startPc="268435702"/>
+<entry endPc="268436694" name="hy4" stackId="20" startPc="268435896"/>
+<entry endPc="268436694" name="hy3" stackId="18" startPc="268435896"/>
+<entry endPc="268436694" name="ticWidth2" stackId="12" startPc="268435896"/>
+<entry endPc="268436694" name="ticCircle2" stackId="10" startPc="268435896"/>
+<entry endPc="268436694" name="hy2" stackId="16" startPc="268435896"/>
+<entry endPc="268436694" name="ticCircle1" stackId="9" startPc="268435896"/>
+<entry endPc="268436694" name="ticWidth1" stackId="11" startPc="268435896"/>
+<entry endPc="268436694" name="hy1" stackId="14" startPc="268435896"/>
+<entry endPc="268436694" name="hx4" stackId="19" startPc="268435896"/>
+<entry endPc="268436694" name="hx3" stackId="17" startPc="268435896"/>
+<entry endPc="268436694" name="hx2" stackId="15" startPc="268435896"/>
+<entry endPc="268436694" name="hx1" stackId="13" startPc="268435896"/>
+<entry endPc="268436694" name="hpts" stackId="21" startPc="268435896"/>
+<entry endPc="268436707" name="i" stackId="8" startPc="268435896"/>
+<entry endPc="268437046" name="btState" stackId="22" startPc="268436712"/>
+<entry endPc="268438009" name="iter" stackId="26" startPc="268437818"/>
+<entry endPc="268438009" name="lastVal" stackId="27" startPc="268437818"/>
+<entry endPc="268438252" name="iter" stackId="28" startPc="268438055"/>
+<entry endPc="268438252" name="lastVal" stackId="29" startPc="268438055"/>
+<entry endPc="268438489" name="iter" stackId="30" startPc="268438298"/>
+<entry endPc="268438489" name="lastVal" stackId="31" startPc="268438298"/>
+<entry endPc="268438712" name="iter" stackId="32" startPc="268438535"/>
+<entry endPc="268438712" name="lastVal" stackId="33" startPc="268438535"/>
+<entry endPc="268439461" name="bat" stackId="34" startPc="268438891"/>
+<entry endPc="268441727" name="sdeg" stackId="55" startPc="268441299"/>
+<entry endPc="268441727" name="ly" stackId="59" startPc="268441299"/>
+<entry endPc="268441727" name="lx" stackId="58" startPc="268441299"/>
+<entry endPc="268441727" name="sy" stackId="57" startPc="268441299"/>
+<entry endPc="268441727" name="sx" stackId="56" startPc="268441299"/>
+<entry endPc="268441730" name="mx4" stackId="52" startPc="268435753"/>
+<entry endPc="268441730" name="mx3" stackId="50" startPc="268435753"/>
+<entry endPc="268441730" name="mx2" stackId="48" startPc="268435753"/>
+<entry endPc="268441730" name="mx1" stackId="46" startPc="268435753"/>
+<entry endPc="268441730" name="mpts" stackId="54" startPc="268435753"/>
+<entry endPc="268441730" name="hx4" stackId="42" startPc="268435753"/>
+<entry endPc="268441730" name="hx3" stackId="40" startPc="268435753"/>
+<entry endPc="268441730" name="notCnt" stackId="23" startPc="268435753"/>
+<entry endPc="268441730" name="hx2" stackId="38" startPc="268435753"/>
+<entry endPc="268441730" name="hx1" stackId="36" startPc="268435753"/>
+<entry endPc="268441730" name="my4" stackId="53" startPc="268435753"/>
+<entry endPc="268441730" name="customFont" stackId="25" startPc="268435753"/>
+<entry endPc="268441730" name="my3" stackId="51" startPc="268435753"/>
+<entry endPc="268441730" name="my2" stackId="49" startPc="268435753"/>
+<entry endPc="268441730" name="my1" stackId="47" startPc="268435753"/>
+<entry endPc="268441730" name="hpts" stackId="44" startPc="268435753"/>
+<entry endPc="268441730" name="s" stackId="5" startPc="268435753"/>
+<entry endPc="268441730" name="clockTime" stackId="2" startPc="268435753"/>
+<entry endPc="268441730" name="hy4" stackId="43" startPc="268435753"/>
+<entry endPc="268441730" name="hy3" stackId="41" startPc="268435753"/>
+<entry endPc="268441730" name="hy2" stackId="39" startPc="268435753"/>
+<entry endPc="268441730" name="hy1" stackId="37" startPc="268435753"/>
+<entry endPc="268441730" name="m" stackId="4" startPc="268435753"/>
+<entry endPc="268441730" name="mdeg" stackId="45" startPc="268435753"/>
+<entry endPc="268441730" name="h" stackId="3" startPc="268435753"/>
+<entry endPc="268441730" name="today" stackId="6" startPc="268435753"/>
+<entry endPc="268441730" name="d" stackId="7" startPc="268435753"/>
+<entry endPc="268441730" name="alarmCnt" stackId="24" startPc="268435753"/>
+<entry endPc="268441730" name="hdeg" stackId="35" startPc="268435753"/>
+<entry endPc="268441731" name="dc" stackId="1" startPc="268435749"/>
+<entry endPc="268441794" name="state" stackId="1" startPc="268441789"/>
+<entry endPc="268441799" name="state" stackId="1" startPc="268441794"/>
+<entry endPc="268441915" name="rez_cmp_local_custom_drawable_82923737919000678144" stackId="2" startPc="268441874"/>
+<entry endPc="268441916" name="dc" stackId="1" startPc="268441862"/>
 </localVars>
 <annotations/>
 <functions>
@@ -349,8 +394,8 @@
 <dataEntry offset="610" parentId="Rez" symbolId="Drawables" type="module"/>
 <dataEntry offset="649" parentId="Rez" symbolId="Menus" type="module"/>
 <dataEntry offset="680" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry offset="711" parentId="Rez" symbolId="JsonData" type="module"/>
-<dataEntry offset="742" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry offset="781" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="719" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="750" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="789" parentId="Rez" symbolId="Strings" type="module"/>
 </dataEntryOffsetMappings>
 </debugInfo>
