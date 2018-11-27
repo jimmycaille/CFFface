@@ -265,63 +265,6 @@
 <localVars>
 <entry endPc="268435501" name="dictionary" stackId="1" startPc="268435460"/>
 <entry endPc="268435572" name="dc" stackId="1" startPc="268435502"/>
-<<<<<<< HEAD
-<entry endPc="268435637" name="dc" stackId="1" startPc="268435595"/>
-<entry endPc="268436587" name="hy4" stackId="20" startPc="268435789"/>
-<entry endPc="268436587" name="hy3" stackId="18" startPc="268435789"/>
-<entry endPc="268436587" name="ticWidth2" stackId="12" startPc="268435789"/>
-<entry endPc="268436587" name="ticCircle2" stackId="10" startPc="268435789"/>
-<entry endPc="268436587" name="hy2" stackId="16" startPc="268435789"/>
-<entry endPc="268436587" name="ticCircle1" stackId="9" startPc="268435789"/>
-<entry endPc="268436587" name="ticWidth1" stackId="11" startPc="268435789"/>
-<entry endPc="268436587" name="hy1" stackId="14" startPc="268435789"/>
-<entry endPc="268436587" name="hx4" stackId="19" startPc="268435789"/>
-<entry endPc="268436587" name="hx3" stackId="17" startPc="268435789"/>
-<entry endPc="268436587" name="hx2" stackId="15" startPc="268435789"/>
-<entry endPc="268436587" name="hx1" stackId="13" startPc="268435789"/>
-<entry endPc="268436587" name="hpts" stackId="21" startPc="268435789"/>
-<entry endPc="268436600" name="i" stackId="8" startPc="268435789"/>
-<entry endPc="268436939" name="btState" stackId="22" startPc="268436605"/>
-<entry endPc="268438377" name="bat" stackId="25" startPc="268437807"/>
-<entry endPc="268440643" name="sdeg" stackId="46" startPc="268440215"/>
-<entry endPc="268440643" name="ly" stackId="50" startPc="268440215"/>
-<entry endPc="268440643" name="lx" stackId="49" startPc="268440215"/>
-<entry endPc="268440643" name="sy" stackId="48" startPc="268440215"/>
-<entry endPc="268440643" name="sx" stackId="47" startPc="268440215"/>
-<entry endPc="268440646" name="mx4" stackId="43" startPc="268435646"/>
-<entry endPc="268440646" name="mx3" stackId="41" startPc="268435646"/>
-<entry endPc="268440646" name="mx2" stackId="39" startPc="268435646"/>
-<entry endPc="268440646" name="mx1" stackId="37" startPc="268435646"/>
-<entry endPc="268440646" name="mpts" stackId="45" startPc="268435646"/>
-<entry endPc="268440646" name="hx4" stackId="33" startPc="268435646"/>
-<entry endPc="268440646" name="hx3" stackId="31" startPc="268435646"/>
-<entry endPc="268440646" name="notCnt" stackId="23" startPc="268435646"/>
-<entry endPc="268440646" name="hx2" stackId="29" startPc="268435646"/>
-<entry endPc="268440646" name="hx1" stackId="27" startPc="268435646"/>
-<entry endPc="268440646" name="my4" stackId="44" startPc="268435646"/>
-<entry endPc="268440646" name="my3" stackId="42" startPc="268435646"/>
-<entry endPc="268440646" name="my2" stackId="40" startPc="268435646"/>
-<entry endPc="268440646" name="my1" stackId="38" startPc="268435646"/>
-<entry endPc="268440646" name="hpts" stackId="35" startPc="268435646"/>
-<entry endPc="268440646" name="s" stackId="5" startPc="268435646"/>
-<entry endPc="268440646" name="clockTime" stackId="2" startPc="268435646"/>
-<entry endPc="268440646" name="hy4" stackId="34" startPc="268435646"/>
-<entry endPc="268440646" name="hy3" stackId="32" startPc="268435646"/>
-<entry endPc="268440646" name="hy2" stackId="30" startPc="268435646"/>
-<entry endPc="268440646" name="hy1" stackId="28" startPc="268435646"/>
-<entry endPc="268440646" name="m" stackId="4" startPc="268435646"/>
-<entry endPc="268440646" name="mdeg" stackId="36" startPc="268435646"/>
-<entry endPc="268440646" name="h" stackId="3" startPc="268435646"/>
-<entry endPc="268440646" name="today" stackId="6" startPc="268435646"/>
-<entry endPc="268440646" name="d" stackId="7" startPc="268435646"/>
-<entry endPc="268440646" name="alarmCnt" stackId="24" startPc="268435646"/>
-<entry endPc="268440646" name="hdeg" stackId="26" startPc="268435646"/>
-<entry endPc="268440647" name="dc" stackId="1" startPc="268435642"/>
-<entry endPc="268440710" name="state" stackId="1" startPc="268440705"/>
-<entry endPc="268440715" name="state" stackId="1" startPc="268440710"/>
-<entry endPc="268440831" name="rez_cmp_local_custom_drawable_10278086734462131441" stackId="2" startPc="268440790"/>
-<entry endPc="268440832" name="dc" stackId="1" startPc="268440778"/>
-=======
 <entry endPc="268435701" name="int" stackId="1" startPc="268435576"/>
 <entry endPc="268435744" name="dc" stackId="1" startPc="268435702"/>
 <entry endPc="268436694" name="hy4" stackId="20" startPc="268435896"/>
@@ -385,9 +328,8 @@
 <entry endPc="268441731" name="dc" stackId="1" startPc="268435749"/>
 <entry endPc="268441794" name="state" stackId="1" startPc="268441789"/>
 <entry endPc="268441799" name="state" stackId="1" startPc="268441794"/>
-<entry endPc="268441915" name="rez_cmp_local_custom_drawable_82923737919000678144" stackId="2" startPc="268441874"/>
+<entry endPc="268441915" name="rez_cmp_local_custom_drawable_17025504021188661062" stackId="2" startPc="268441874"/>
 <entry endPc="268441916" name="dc" stackId="1" startPc="268441862"/>
->>>>>>> 5fff78ef8548e7b17038427d59dcb3fd2654516e
 </localVars>
 <annotations/>
 <functions>
